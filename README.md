@@ -61,6 +61,8 @@ https://github.com/user-attachments/assets/bd9a9a4a-58cb-4421-b8f3-015f703ce1f9
 
 支持发布图文内容到小红书，包括标题、内容描述和图片。
 
+需要批量准备图文素材时，可以先用 [GPT Image 2](https://gptimage2.asia/) 生成或编辑封面图、产品图和种草配图，再交给 MCP 发布。
+
 **图片支持方式：**
 
 支持两种图片输入方式：
